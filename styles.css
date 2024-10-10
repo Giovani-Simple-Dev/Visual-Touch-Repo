@@ -52,5 +52,6 @@ header .active{
     border-radius: 15px;
     margin-top: -78px;
     margin-left: 85px;
+    cursor: pointer;
 }
 
